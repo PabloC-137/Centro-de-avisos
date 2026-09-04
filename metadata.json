@@ -1,0 +1,6 @@
+{
+  "name": "Módulo de Avisos Corporativos",
+  "description": "Sistema corporativo de avisos y comunicados internos con segmentación de audiencia, prioridades, versionado inmutable, métricas de lectura y aislamiento multi-tenant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
